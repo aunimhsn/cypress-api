@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Kia",
+      "model": "Rio III",
+      "color": "white",
+      "year": 2014
+    },
+    {
+      "id": 2,
+      "brand": "Ford",
+      "model": "Mustang Mach 1",
+      "color": "red",
+      "year": 2021
+    },
+    {
+      "id": 3,
+      "brand": "Renault",
+      "model": "Clio 4",
+      "color": "yellow",
+      "year": 2018
+    },
+    {
+      "brand": "Fiat",
+      "model": "500",
+      "color": "blue",
+      "year": 1972,
+      "id": 4
+    }
+  ]
+}
